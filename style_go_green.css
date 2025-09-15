@@ -28,7 +28,7 @@ body {
   text-align: center;
   color: #fff;
 
-  background: url("img/green.jpg") no-repeat center center;
+  background: url("green.jpg") no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
   position: relative;
@@ -209,3 +209,4 @@ footer a:hover {
     padding: 50px 15px;
   }
 }
+
